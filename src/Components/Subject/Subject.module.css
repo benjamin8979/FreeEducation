@@ -1,0 +1,12 @@
+.subject {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-family: 'Bungee Outline', cursive;
+    font-weight: 900;
+  }
+
+  button {
+    background-color: transparent;
+    border: none;
+  }

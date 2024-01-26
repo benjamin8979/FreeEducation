@@ -1,0 +1,37 @@
+.splash {
+    background: url(../../media/neonsign-home.gif) repeat center center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-align: start;
+}
+
+.blurb {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.6;
+    margin-top: 350px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+    opacity: 0.8;
+}
+
+.scroll {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 60px;
+    font-weight: 700;
+    opacity: 0.8;
+}
+
+.arrow {
+    margin-top: 40px;
+}
+
+.scrollLink {
+    color: black;
+}
+  

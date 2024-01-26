@@ -1,0 +1,21 @@
+
+.goBack {
+    font-size: 24px;
+    font-family: 'Bungee Outline', cursive;
+    font-weight: 900; 
+    text-shadow: 0 0 2px white;
+  }
+
+.modal {
+    height: 50%;
+    width: 40%;
+    position: absolute;
+    z-index: 3;
+    top: 30%;
+    left: 30%;
+    
+    }
+iframe {
+    height: 100%;
+    width: 100%;
+}

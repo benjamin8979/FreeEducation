@@ -1,0 +1,89 @@
+.subjects {
+    background: url("../../media/wall-texture.jpg");
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    scroll-snap-align: start;
+  }
+
+  h2 {
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    opacity: 0.8;
+  }
+
+  #bio {
+    color: #18baff;
+    animation: cblue 1s infinite alternate;
+  }
+  @keyframes cblue {
+      from {text-shadow: 0 0 5px #18baff;}
+      to {text-shadow: 0 0 3px #0b5b7d; color: #0b5b7d}
+    }
+
+  #psych {
+    color: #10c2c2;
+    animation: caqua 1s infinite alternate;
+  }
+  @keyframes caqua {
+      from {text-shadow: 0 0 5px #10c2c2;}
+      to {text-shadow: 0 0 3px #075050; color: #075050}
+    }
+  
+  #phys {
+    color: #29d67f;
+    animation: ctree 1s infinite alternate;
+  }
+  @keyframes ctree {
+      from {text-shadow: 0 0 5px #29d67f;}
+      to {text-shadow: 0 0 3px #0f5230; color: #0f5230}
+    }
+  
+  #his {
+    color: #02dd56;
+    animation: cneon 1s infinite alternate;
+  }
+  @keyframes cneon {
+      from {text-shadow: 0 0 3px #02dd56;}
+      to {text-shadow: 0 0 3px #006727; color: #006727}
+    }
+  
+  #lit {
+    color: #cccc23;
+    animation: cyell 1s infinite alternate;
+  }
+  @keyframes cyell {
+      from {text-shadow: 0 0 3px #cccc23;}
+      to {text-shadow: 0 0 3px #6f6f11; color: #6f6f11}
+    }
+  
+  
+  #cs {
+    color: #ffba09;
+     animation: corng 1s infinite alternate;
+  }
+  @keyframes corng {
+      from {text-shadow: 0 0 3px #ffba09;}
+      to {text-shadow: 0 0 3px #936b04; color: #936b04}
+    }
+  
+  #math {
+    color: #ff3d00;
+    animation: credo 1s infinite alternate;
+  }
+  @keyframes credo {
+      from {text-shadow: 0 0 5px #ff3d00;}
+      to {text-shadow: 0 0 3px #691901; color: #691901}
+    }
+  
+  #soc {
+    color: #ff00f7;
+    animation: cpink 1s infinite alternate;
+  }
+  @keyframes cpink {
+      from {text-shadow: 0 0 5px #ff00f7;}
+      to {text-shadow: 0 0 3px #670164; color: #670164}
+    }
