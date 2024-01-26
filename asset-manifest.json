@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FreeEducation/static/css/main.2ec802c4.css",
+    "main.js": "/FreeEducation/static/js/main.2207628a.js",
+    "static/js/787.fe210a26.chunk.js": "/FreeEducation/static/js/787.fe210a26.chunk.js",
+    "static/media/neonsign-home.gif": "/FreeEducation/static/media/neonsign-home.8eef04567d3f846201bc.gif",
+    "static/media/wall-texture.jpg": "/FreeEducation/static/media/wall-texture.ebf5634866468f1a2bce.jpg",
+    "index.html": "/FreeEducation/index.html",
+    "main.2ec802c4.css.map": "/FreeEducation/static/css/main.2ec802c4.css.map",
+    "main.2207628a.js.map": "/FreeEducation/static/js/main.2207628a.js.map",
+    "787.fe210a26.chunk.js.map": "/FreeEducation/static/js/787.fe210a26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec802c4.css",
+    "static/js/main.2207628a.js"
+  ]
+}
