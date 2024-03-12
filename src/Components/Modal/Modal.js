@@ -8,7 +8,7 @@ function Modal(props) {
 
     return (
         <div className={styles.modal}>
-            <iframe className={styles.youtubeVideo}
+            <iframe title={props.videoLink} className={styles.youtubeVideo}
                 src={props.videoLink}
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media"
                 allowFullScreen
